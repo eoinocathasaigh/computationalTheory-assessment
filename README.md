@@ -20,5 +20,5 @@ To run the code, ensure you have Python and Jupyter Notebook installed. Open the
 - <b>Binary Operations</b>: Understanding and implementing basic binary operations such as AND, OR, XOR, and NOT.
 - <b>Bit Shifting</b>: Techniques for shifting bits left or right within a binary representation e.g. left shift (<<) and right shift (>>) in their apporpriate methods.
 - <b>Factorials & Cube Roots</b>: Calculating factorials and cube roots, which are fundamental in various algorithms.
-- <b>Message Padding</b>: Implementing message padding techniques to prepare data for hashing.
+- <b>Message Padding</b>: Implementing message padding techniques such as those used in SHA-256 i.e. appending a single '1' bit, followed by '0' bits, and finally the length of the original message.
 - <b>Message Hashing</b>: Creating hash functions to securely represent data, specifically focusing on SHA-256
