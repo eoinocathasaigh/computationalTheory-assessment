@@ -1,5 +1,5 @@
 # computationalTheory-assessment
-A repo for my 4th year computational theory assesment
+**Eoin Ocathasaigh - G00417466**
 
 ## Introduction
 This repository demonstrates core concepts in computational theory relevant to implementing SHA-256, including:
@@ -9,6 +9,9 @@ This repository demonstrates core concepts in computational theory relevant to i
 - Factorials and cube roots (algorithmic computation and numeric methods)
 - Message padding (preparing messages for hashing according to the spec)
 - Message hashing (design and implementation of hash functions, focusing on SHA-256)
+- Password hashing (demonstrating vulnerabilities in weak password hashes and proposing solutions)
+
+The language used for this implementation is Python, utilizing libraries such as NumPy for efficient numerical operations and SymPy for mathematical computations as seen in problem 2 for prime number checking.
 
 ## Files
 - `problems.ipynb`: A Jupyter notebook containing the implementations and explanations of the various computational theory problems.
@@ -42,4 +45,4 @@ Each problem is structured in the notebook with the following format:
 3. **Code Sections**: Following an explanation of methods the actualy solution/implementation code is provided in code cells, sometimes divided into multiple cells when I use things such as Utility or helper functions as seen in problem 1, where they can be used in later problems.
 
 ## Conclusion
-This repository is meant to serve as a guide or demonstration of key computational theory concepts, particularly in relation to the secure hash algorithm and the concepts it highlights like hashing. It provides practical implementations and explanations to help understand these fundamental topics in computer science as well as my understanding of them.
+This repository is meant to serve as a guide or demonstration of key computational theory concepts, particularly in relation to the secure hash algorithm and the concepts it highlights like hashing. It provides practical implementations and explanations to help understand these fundamental topics in computer science as well as my understanding of them. 
