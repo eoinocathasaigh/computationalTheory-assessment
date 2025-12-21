@@ -44,5 +44,11 @@ Each problem is structured in the notebook with the following format:
 2. **Implementation**: I provide an explanation of the methods involved in solving or implementing the solution, highlighting any important functions or algorithms used e.g. using `sympy.isprime()` to check for prime numbers.
 3. **Code Sections**: Following an explanation of methods the actualy solution/implementation code is provided in code cells, sometimes divided into multiple cells when I use things such as Utility or helper functions as seen in problem 1, where they can be used in later problems.
 
+## References
+- [SHA-256 Algorithm](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf)
+- [Pep8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+- [UTF-8 Encoding](https://www.unicode.org/versions/Unicode13.0.0/)
+- [CrackStation - Password Cracking Tool](https://crackstation.net/)
+
 ## Conclusion
 This repository is meant to serve as a guide or demonstration of key computational theory concepts, particularly in relation to the secure hash algorithm and the concepts it highlights like hashing. It provides practical implementations and explanations to help understand these fundamental topics in computer science as well as my understanding of them. 
