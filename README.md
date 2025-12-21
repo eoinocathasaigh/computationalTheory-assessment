@@ -16,8 +16,9 @@ The language used for this implementation is Python, utilizing libraries such as
 ## Files
 - `problems.ipynb`: A Jupyter notebook containing the implementations and explanations of the various computational theory problems.
 - `README.md`: This file, providing an overview of the repository and its contents.
+
 ## Usage
-To run the code, ensure you have Python and Jupyter Notebook installed. Open the `problems.ipynb` file in Jupyter Notebook and execute the cells to see the implementations and results
+To run the code, ensure you have Python and Jupyter Notebook installed. Open the `problems.ipynb` file in Jupyter Notebook and execute the cells to see the implementations and results. Ensure you have the required libraries installed, which can be done via pip.
 
 ## Concepts Covered
 - <b>Binary Operations</b>: Understanding and implementing basic binary operations such as AND, OR, XOR, and NOT.
